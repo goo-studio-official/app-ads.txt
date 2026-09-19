@@ -14,6 +14,8 @@ bidmachine.io,466,DIRECT
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 
+google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+
 google.com, pub-3080896210563904, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
@@ -5029,6 +5031,3 @@ trustedstack.com, TS677PGY3, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 
 axonix.com, 59204, RESELLER
-
-
-
